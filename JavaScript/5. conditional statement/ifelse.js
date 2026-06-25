@@ -1,3 +1,4 @@
+//eg1:
 let age = 15;
 
 if(age>=18){
@@ -5,4 +6,14 @@ if(age>=18){
 }
 else{
     console.log("Minor");
+}
+
+//eg2
+let marks = 30;
+
+if(marks >= 35){
+    console.log("Pass");
+}
+else{
+    console.log("Fail");
 }
